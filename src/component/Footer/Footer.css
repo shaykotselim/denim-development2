@@ -1,0 +1,7 @@
+.footer-container{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    background-color: rgb(241, 127, 74);
+    height: 100px;
+    line-height: 5px;
+}

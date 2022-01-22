@@ -1,0 +1,20 @@
+.cart-container{
+    display: flex;
+}
+.cartname{
+    margin-left: 5px;
+    line-height: 8px;
+    text-align: left;
+}
+.cartprice{
+    line-height: 8px;
+    text-align: right;
+    margin-left: 30px;
+}
+.confrimbtn{
+    background-color: rgb(250, 123, 38);
+    width: 50%;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 5px;
+}

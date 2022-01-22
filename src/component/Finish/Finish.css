@@ -1,0 +1,44 @@
+
+    .card{
+        grid-column: 3fr ;
+        float: left;
+        margin: 2%;
+        height: 500px;
+        width: 25%;
+        box-shadow: 0 8px 16px 0 rgba(19, 18, 18, 0.2);
+        border-radius: 10px;
+        background-color: white;
+    }
+    
+    
+
+
+.fin-image{
+    margin-top: 5px;
+    width: 60%;
+    height: 40%;
+    border: 2px solid rgb(128, 127, 127);
+    border-radius: 5px;
+    
+}
+.fin-detail{
+    line-height: 5px;
+    text-align: left;
+    margin-left: 10px;
+    padding: 5px;
+    color: darkblue;
+    /* background-color: rgb(243, 242, 241); */
+}
+.purches-button{
+    background-color: black;
+    border: 2px solid rgb(48, 48, 48);
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    width: 40%;
+    color: white;
+}
+.fontcolor{
+    color: black;
+    font-weight: 22px;
+}
